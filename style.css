@@ -1,28 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(31, 30, 30);
+}
+
 .container {
-    width: 350px;
-}
-
-#controls i {
-    font-size: 30px;
-    color: blueviolet;
-    margin-right: 20px;
-}
-
-#progress {
-    margin-bottom: 20px;
+    width: 400px;
 }
 
 #progress .times,
-#controls {
+.card-footer,
+.volume-container {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-#progress-bar {
-    width: 100%;
-}
-
-#music-image {
-    width: 100%;
+.volume-container {
+    margin-right: 5px;
 }
