@@ -1,4 +1,4 @@
-# Course App with JavaScript
+# Music Player with JavaScript
 
 JavaScript'te kendimi geliştirmek için her gün basitten zora doğru projeler yapıyorum.
 
@@ -11,4 +11,4 @@ I do projects from simple to difficult every day to improve myself in JavaScript
 
 In this process, I continue to improve myself. In this project, I made a music player application. I continue to improve myself by doing other projects and challenges every day.
 
-CANLI DEMO:
+CANLI DEMO: https://music-player-alpha-umber.vercel.app/
