@@ -13,6 +13,7 @@ In this process, I continue to improve myself. In this project, I made a music p
 
 CANLI DEMO: https://music-player-alpha-umber.vercel.app/
 
+# Preview
 
 https://github.com/muratscgn/music-player/assets/124501558/270fae0f-9489-4bf7-ade4-04dcce205e70
 
